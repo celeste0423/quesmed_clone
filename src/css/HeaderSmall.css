@@ -1,0 +1,22 @@
+.header {
+  padding: 0 20px;
+  height: 70px;
+  background-color: #ffffff;
+  top: 0;
+  left: 0;
+  right: 0;
+  justify-content: space-between;
+  border-bottom: 1px solid #cbcbcb;
+}
+
+.header .menu__icon {
+  font-size: 20px;
+}
+
+.header img {
+  width: 30px;
+}
+
+.header .box {
+  padding: 0 10px;
+}

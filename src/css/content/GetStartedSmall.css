@@ -1,0 +1,52 @@
+.getStarted {
+  margin-top: 70px;
+  background-color: #f8f8f8;
+}
+.getStarted img {
+  width: 80%;
+}
+
+.title {
+  padding: 10px 20px 10px 10px;
+  font-weight: 700;
+}
+.description {
+  width: 60%;
+  padding: 20px 0px 20px 0px;
+}
+
+.button {
+  width: 90%;
+  height: 50px;
+  border-radius: 10px;
+}
+.start__button {
+  color: #fff;
+  background-color: rgb(37, 106, 244);
+  border: 0;
+}
+.tryNow__button {
+  background-color: #fff;
+  border: 2px solid #dedede;
+}
+
+.advertise {
+  background-color: rgb(37, 106, 244);
+  border-radius: 25px;
+  width: 90%;
+  border: 0;
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
+  justify-content: space-around;
+}
+.box__height600 {
+  height: 600px;
+}
+.num {
+  margin: 0;
+}
+
+.advertise li {
+  text-decoration: none;
+  color: #fff;
+}

@@ -1,0 +1,70 @@
+/* global classes */
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+ul,
+ol {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+.flex {
+  display: flex;
+}
+
+.center {
+  align-items: center;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.row {
+  flex-direction: row;
+}
+.column {
+  flex-direction: column;
+}
+
+.noul {
+  text-decoration: none;
+}
+
+.bl {
+  display: block;
+}
+
+.s13 {
+  font-size: 13px;
+}
+.s15 {
+  font-size: 15px;
+}
+.s20 {
+  font-size: 20px;
+}
+.s24 {
+  font-size: 24px;
+}
+.s30 {
+  font-size: 30px;
+}
+.s45 {
+  font-size: 45px;
+}
+
+.fontB {
+  font-weight: bold;
+}
+
+.colorGreyText {
+  color: #626262;
+}
+
+.cursor :hover {
+  cursor: pointer;
+}
