@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quesmed_clone/static/css/main.3aa9f370.css",
+    "main.js": "/quesmed_clone/static/js/main.b07d01e7.js",
+    "static/js/787.ef600ff7.chunk.js": "/quesmed_clone/static/js/787.ef600ff7.chunk.js",
+    "static/media/platform-1.svg": "/quesmed_clone/static/media/platform-1.fdd3268b6a55f78ddbe36e8346e5027d.svg",
+    "static/media/brain-friends.svg": "/quesmed_clone/static/media/brain-friends.0658deb6620ac853f00d4b8c2c9bcb0f.svg",
+    "static/media/brain-desktop.svg": "/quesmed_clone/static/media/brain-desktop.e15d0e07f768c1c6ab839914c6663ca5.svg",
+    "static/media/brain-app.svg": "/quesmed_clone/static/media/brain-app.65c50217bf6f79de98bc62cdc9fc8caf.svg",
+    "static/media/brain-knowledge.svg": "/quesmed_clone/static/media/brain-knowledge.cfb1d8e16b0d4bd257ea167d5fc21777.svg",
+    "static/media/brain-practice.svg": "/quesmed_clone/static/media/brain-practice.490be22a5a8c29f5b0684bed2ad17dc9.svg",
+    "static/media/app-store.svg": "/quesmed_clone/static/media/app-store.79735311dd9056247321eaa5764c04de.svg",
+    "static/media/google-play.svg": "/quesmed_clone/static/media/google-play.56ce46a2115d79e90bf2466a1e696140.svg",
+    "static/media/logo-white.svg": "/quesmed_clone/static/media/logo-white.1d49a1f6131d4cd91e69655cb1b74efd.svg",
+    "static/media/logo-small.svg": "/quesmed_clone/static/media/logo-small.455843fae7e54f4e700954d451a08138.svg",
+    "static/media/wave.svg": "/quesmed_clone/static/media/wave.3193afe62dcf5d35ff85ff506750846b.svg",
+    "index.html": "/quesmed_clone/index.html",
+    "main.3aa9f370.css.map": "/quesmed_clone/static/css/main.3aa9f370.css.map",
+    "main.b07d01e7.js.map": "/quesmed_clone/static/js/main.b07d01e7.js.map",
+    "787.ef600ff7.chunk.js.map": "/quesmed_clone/static/js/787.ef600ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aa9f370.css",
+    "static/js/main.b07d01e7.js"
+  ]
+}
