@@ -7,6 +7,7 @@ import Pricing from "./pages/Pricing"
 import Home from "./pages/Home"
 import About from "./pages/About"
 import { Route, Routes } from "react-router-dom"
+import WidthDetect from "./wideview/responsive";
 
 function App() {
   const [windowDimension, detectHW] = useState({
@@ -38,6 +39,7 @@ function App() {
         <Route path="/pricing" element={<Pricing />} />
         <Route path="/about" element={<About />} />
       </Routes>
+      <WidthDetect />
     </div>
   );
 }
