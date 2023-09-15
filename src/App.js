@@ -3,6 +3,10 @@ import ContentSmall from "./components/ContentSmall";
 import HeaderSmall from "./components/HeaderSmall";
 import "./css/App.css";
 import FooterSmall from "./components/FooterSmall";
+import Pricing from "./pages/Pricing"
+import Home from "./pages/Home"
+import About from "./pages/About"
+import { Route, Routes } from "react-router-dom"
 
 function App() {
   const [windowDimension, detectHW] = useState({
@@ -29,6 +33,11 @@ function App() {
       <HeaderSmall />
       <ContentSmall windowWidth={windowDimension.winWidth} />
       <FooterSmall />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/pricing" element={<Pricing />} />
+        <Route path="/about" element={<About />} />
+      </Routes>
     </div>
   );
 }
